@@ -5,3 +5,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install azurecli
 choco install terraform
 choco install git
+
+if you have linux system
+yum install 
+\apt get install package name
